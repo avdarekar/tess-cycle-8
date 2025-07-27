@@ -1,4 +1,4 @@
-# tess_c3
+# tess-cycle-8
 
 ## Description 
 This program uses the [Web TESS Viewing Tool](https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/) to count how many sectors a star will be observed in cycle 8. 
