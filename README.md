@@ -15,7 +15,7 @@ This program uses the [Web TESS Viewing Tool](https://heasarc.gsfc.nasa.gov/wsgi
 - TESS_number_of_sectors_cycle_8.txt: This is the text file that the tess_cycle_8.py program writes to.
 
 ## Obtaining Data
-The data is obtained using the [Web TESS Viewing Tool](https://heasarc.gsfc.nasa.gov/cgi-bin/tess/webtess/wtv.py). 
+The data is obtained using the [Web TESS Viewing Tool](https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/). 
 
 ## Installation 
 To successfully run this program locally, clone this repo and install requirements in a virtual environment using the requirements.txt file.
